@@ -1270,5 +1270,6 @@ a {
 }
 
 .story {
-  padding-top: var(--spacing-lg);      /* 6rem → 2.5rem */
+  padding-top: var(--spacing-lg);
+  padding-bottom: var(--spacing-lg);
 }

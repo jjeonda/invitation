@@ -172,7 +172,7 @@
     // Create stars in curtain background
     createStars('#curtainStars', 120);
 
-    namesEl.textContent = `${CONFIG.groom.name}  &  ${CONFIG.bride.name}`;
+    namesEl.textContent = `${CONFIG.groom.name}  ♥  ${CONFIG.bride.name}`;
 
     btn.addEventListener('click', () => {
       curtain.classList.add('is-open');
